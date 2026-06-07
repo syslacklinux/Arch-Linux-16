@@ -36,4 +36,4 @@ Adjust boot sector or use a bootloader (ELKS includes simple boot code).
 
 Reboot with HDD as primary boot device.
 
-Login as root then vi /etc/issue then i Then Change ELKS 0.7.0 To Arch Linux 0.7.0-arch1-1 then esc then :wq
+Login as root then vi /etc/issue Then Change ELKS 0.7.0 To Arch Linux 0.7.0-arch1-1 then esc then :wq
