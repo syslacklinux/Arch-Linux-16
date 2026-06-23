@@ -1,6 +1,6 @@
 <img width="920" height="300" alt="Arch Linux 16 Logo" src="https://github.com/user-attachments/assets/ab1d51fd-8cad-47bc-9738-22f7ca945999" />
 
-# Arch-Linux-16
+# Arch Linux 16
 A lightweight and flexible Linux® distribution that tries to Keep It Simple. Currently we have official packages optimized for the 8086 With ELKS
 the community maintained of 16-bit support for Arch Linux
 
