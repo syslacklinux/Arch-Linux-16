@@ -2,7 +2,7 @@
 
 # Arch-Linux-16
 A lightweight and flexible Linux® distribution that tries to Keep It Simple. Currently we have official packages optimized for the 8086 With ELKS
-the community maintained continuation of 16-bit support for Arch Linux
+the community maintained of 16-bit support for Arch Linux
 
 Installation
 
